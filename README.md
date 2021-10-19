@@ -1,6 +1,6 @@
 # hi!
 
-![Metrics](https://raw.githubusercontent.com/choopm/choopm/master/github-metrics.svg)
+[![Metrics](https://raw.githubusercontent.com/choopm/choopm/master/github-metrics.svg)](https://metrics.lecoq.io/about/choopm)
 
 ## PGP public keys:
 
